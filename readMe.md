@@ -13,6 +13,8 @@
 ## 创建 django 项目
 
 > django-admin startproject siteName
+>
+> python -m manage.py startapp poll
 
 ## 新建 django 项目目录结构
 
